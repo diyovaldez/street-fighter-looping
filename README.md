@@ -238,6 +238,6 @@ Proyek ini bebas digunakan untuk keperluan belajar dan portofolio. Street Fighte
 
 ## 👤 Author
 
-Dibuat dengan ❤️ dan karakter `o/` oleh **[nama kamu]**
+Dibuat dengan ❤️ dan karakter `o/` oleh **[Diyo]**
 
 > *"The answer lies in the heart of battle!"* — valdez
