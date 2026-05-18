@@ -4,7 +4,7 @@
 
 ```
     ╔══════════════════════════════════╗
-    ║   STREET FIGHTER II   ROUND 3   ║
+    ║   STREET FIGHTER II   ROUND 3    ║
     ╚══════════════════════════════════╝
     RYU  [████████████████████] ZANGIEF
     RYU  [██████████████░░░░░░] ZANGIEF
@@ -240,4 +240,4 @@ Proyek ini bebas digunakan untuk keperluan belajar dan portofolio. Street Fighte
 
 Dibuat dengan ❤️ dan karakter `o/` oleh **[nama kamu]**
 
-> *"The answer lies in the heart of battle!"* — Ryu
+> *"The answer lies in the heart of battle!"* — valdez
